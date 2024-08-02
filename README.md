@@ -4,6 +4,7 @@
 
 # 42 Libtf - My first project in the 42 Core Curriculum
 The first project of the 42 School aims to create a static library, whith simulates existents functions of native libraryes of C language. We'll need them in future projects in the school, to manipulate characters, strings, numbers and printing.
+![final mark](https://github.com/LouAntonio/LouAntonio/blob/main/resources/avaluations/libft.png)
 ## Use in your machine
 
   1. Clone the repo
